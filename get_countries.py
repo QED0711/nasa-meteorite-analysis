@@ -1,3 +1,6 @@
+import csv
+from keys import *
+
 def get_countries(df, start_idx):
     """
     given lat and long coordinates in a df (and id), finds the country name at that 
@@ -9,7 +12,7 @@ def get_countries(df, start_idx):
     NOTE: Do not run on large sets unless you are absolutely sure confident that the data you pass in 
     will have no errors in the API calls.
     """
-    import csv
+    
     
     for i in range(start_idx, df.shape[0]):
         country, country_short_name = (None, None)
