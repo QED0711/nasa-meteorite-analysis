@@ -1,0 +1,7 @@
+sample_1,sample_2,t_stat,p_value,alpha_1,alpha_05,alpha_01
+Chondrite,Achondrite,-1.5096329478856143,0.13142787132952657,False,False,False
+Chondrite,Iron,-4.2385868125953055,2.466572917744776e-05,True,True,True
+Chondrite,Stony-Iron,-3.0928439033035806,0.0022332329223249533,True,True,True
+Achondrite,Iron,-4.18794634829089,3.073628476892621e-05,True,True,True
+Achondrite,Stony-Iron,-2.8510400413529067,0.004746793088997029,True,True,True
+Iron,Stony-Iron,3.448491037165745,0.0005861271971294914,True,True,True
