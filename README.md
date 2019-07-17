@@ -29,6 +29,7 @@ This project tests several hypothesis with t-tests and proportions tests
   * Ho: The average mass of meteorites found vs. observed falling is the same
   * Ho: No change occurs in the ratio of falling to found meteorites over time
   * Ho: Meteorites land with equal frequency across the global landmass
+  * Ho: The population of a country has no impact on the number of meteorites observed
 
 ## Sources
 * [Primary data From NASA’s open data portal](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh)
@@ -36,5 +37,5 @@ This project tests several hypothesis with t-tests and proportions tests
 * [Supplemental data2 - populations for the locations meteorites landed ](https://photius.com/rankings/world2050_rank.html)   
 
 ## Featured Notebooks/Analysis/Deliverables
-* Please See the MSTER Jupyternotebook above for the main code involved in cleaning
+* Please See the MASTER Jupyternotebook above for the main code involved in cleaning
 
