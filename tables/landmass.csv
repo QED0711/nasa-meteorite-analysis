@@ -1,7 +1,7 @@
-quadrant_1,quadrant_2,t_stat,p_value,alpha 10%,alpha 5%,alpha 1%
-NE,NW,-2.541271833893504,0.011107975334838496,True,True,False
-NE,SW,-0.9199972041673574,0.3576873747759952,False,False,False
-NE,SE,1.6290688069862995,0.10332422732737202,False,False,False
-NW,SW,1.3781487540107593,0.1682333975758895,False,False,False
-NW,SE,2.870973041120055,0.00412952095205931,True,True,True
-SW,SE,1.3000787279409702,0.19373436053895066,False,False,False
+Quadrant 1,Quadrant 2,t-stat,p-value,alpha 10%,alpha 5%,alpha 1%
+NE,NW,-2.541271834,0.011107975,Accept Ha,Accept Ha,Fail to Reject
+NE,SW,-0.919997204,0.357687375,Fail to Reject,Fail to Reject,Fail to Reject
+NE,SE,1.629068807,0.103324227,Fail to Reject,Fail to Reject,Fail to Reject
+NW,SW,1.378148754,0.168233398,Fail to Reject,Fail to Reject,Fail to Reject
+NW,SE,2.870973041,0.004129521,Accept Ha,Accept Ha,Accept Ha
+SW,SE,1.300078728,0.193734361,Fail to Reject,Fail to Reject,Fail to Reject
