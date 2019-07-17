@@ -37,5 +37,5 @@ This project tests several hypothesis with t-tests and proportions tests
 * [Supplemental data2 - populations for the locations meteorites landed ](https://photius.com/rankings/world2050_rank.html)   
 
 ## Featured Notebooks/Analysis/Deliverables
-* Please See the MASTER Jupyternotebook above for the main code involved in cleaning
+* Please See the MASTER Jupyter notebook above for the main analysis
 
