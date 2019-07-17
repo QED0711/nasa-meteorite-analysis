@@ -1,0 +1,22 @@
+,Region 1,Region 2,t-stat,p-value,alpha 10%,alpha 5%,alpha 1%
+0,Latin America & Caribbean,North America,-0.8865069417661678,0.5342863468019027,False,False,False
+1,Latin America & Caribbean,Europe & Central Asia,1.2387418010484312,0.23442637715116085,False,False,False
+2,Latin America & Caribbean,Middle East & North Africa,-0.9604860782502874,0.34723521812664204,False,False,False
+3,Latin America & Caribbean,South Asia,1.0561721988422648,0.30603564936342686,False,False,False
+4,Latin America & Caribbean,East Asia & Pacific,0.7911413006054933,0.43877661644553245,False,False,False
+5,Latin America & Caribbean,Sub-Saharan Africa,1.2203036768914717,0.24094397686265537,False,False,False
+8,North America,Europe & Central Asia,1.0551617548356544,0.48291058094813455,False,False,False
+9,North America,Middle East & North Africa,0.5942724426887294,0.6484782711727117,False,False,False
+10,North America,South Asia,1.034743474940519,0.4888637902259572,False,False,False
+11,North America,East Asia & Pacific,1.0020377258806838,0.4987925715364191,False,False,False
+12,North America,Sub-Saharan Africa,1.0531370850539932,0.4834962056185164,False,False,False
+15,Europe & Central Asia,Middle East & North Africa,-1.6913768648798069,0.11141620166664741,False,False,False
+16,Europe & Central Asia,South Asia,-0.6288470768164619,0.5621340777909751,False,False,False
+17,Europe & Central Asia,East Asia & Pacific,-1.1268186155310107,0.27609170295192337,False,False,False
+18,Europe & Central Asia,Sub-Saharan Africa,-0.16985869748267932,0.8660959513405854,False,False,False
+21,Middle East & North Africa,South Asia,1.6037101231629889,0.12905509070118135,False,False,False
+22,Middle East & North Africa,East Asia & Pacific,1.4692417338174302,0.16123542624714665,False,False,False
+23,Middle East & North Africa,Sub-Saharan Africa,1.682678894926827,0.11306216692536067,False,False,False
+26,South Asia,East Asia & Pacific,-0.5780459096958197,0.570232144099848,False,False,False
+27,South Asia,Sub-Saharan Africa,0.5425904482782675,0.6108808047303529,False,False,False
+30,East Asia & Pacific,Sub-Saharan Africa,1.0618563301568835,0.3025579428818854,False,False,False
