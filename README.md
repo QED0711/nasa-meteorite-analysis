@@ -1,5 +1,5 @@
 
-# A Statistical analysis of the NASA Meteorite dataset
+# A Statistical analysis of the NASA Meteorite Dataset
 This project is a part of the FlatIron School Data Science Fellowship requirements.
 
 ## Project Intro/Objective
@@ -38,4 +38,5 @@ This project tests several hypothesis with t-tests and proportions tests
 
 ## Featured Notebooks/Analysis/Deliverables
 * Please See the MASTER Jupyter notebook above for the main analysis
+> _Note: Visualizations may not render if notebook is loaded in browser. For best viewing results, clone project to local machine._
 
