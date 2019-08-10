@@ -1,5 +1,5 @@
 
-# Shooting For The Stars: A Statistical analysis of the NASA Meteorite dataset
+# A Statistical analysis of the NASA Meteorite dataset
 This project is a part of the FlatIron School Data Science Fellowship requirements.
 
 ## Project Intro/Objective
